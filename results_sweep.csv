@@ -1,0 +1,277 @@
+filename,subset,tolerance,A_eligible,A_triggered,A_ratio,A_deviation,B_eligible,B_triggered,B_ratio,B_deviation,B_matched,C_eligible,C_triggered,C_ratio,C_deviation,D_eligible,D_triggered,D_ratio,D_deviation,eligible_count,hit_count,frac,label
+centroid_phi23.png,ai,0.01,1,0,1.394,13.84,1,0,1.6463,1.75,,1,1,1.6174,0.03,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+Code_Generated_Image22.png,ai,0.01,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.01,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.01,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.01,1,1,1.6101,0.49,1,0,1.6406,1.4,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image34.png,ai,0.01,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.01,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,0,1.6393,1.32,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image_33.png,ai,0.01,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.01,1,0,1.6923,4.59,1,0,2.7119,67.61,,0,0,0,100,1,1,1.6125,0.34,3,1,0.333,WEAK GOLDEN INDICATION
+Screenshot 2026-05-05 032133_00.png,ai,0.01,1,0,1.0735,33.65,1,0,1.779,9.95,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.01,1,0,3.649,125.52,1,0,1.5224,5.91,,1,0,1.8793,16.15,1,0,0,100,4,0,0.0,NOT GOLDEN
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.01,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.01,1,0,3.0368,87.69,1,0,1.5376,4.97,,1,1,1.6314,0.83,1,1,1.6136,0.27,4,2,0.5,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.01,1,0,1.4652,9.44,1,0,1.5861,1.97,,1,0,1.5477,4.35,1,1,1.6201,0.13,4,1,0.25,WEAK GOLDEN INDICATION
+adidas-logo-png-black-0.png,golden,0.01,1,0,1.4835,8.31,1,0,1.6367,1.16,,1,0,1.8978,17.29,1,0,2.0,23.61,4,0,0.0,NOT GOLDEN
+airbnb-logo-png_seeklogo-272806.png,golden,0.01,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,0,1.5,7.29,1,0,1.6667,3.01,4,0,0.0,NOT GOLDEN
+Apple-Logo-PNG-Clipart.webp,golden,0.01,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.01,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.01,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.01,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.01,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.01,1,0,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.01,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.01,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.01,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.01,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,0,1.5902,1.72,2,0,0.0,NOT GOLDEN
+pepsi-png-logo-4.webp,golden,0.01,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,0,1.5,7.29,4,0,0.0,NOT GOLDEN
+Spotify_logo_without_text.svg.png,golden,0.01,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,0,1.5692,3.02,4,0,0.0,NOT GOLDEN
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.01,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.01,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,0,1.5761,2.59,4,0,0.0,NOT GOLDEN
+bmw-logo-png_seeklogo-170616.png,non_golden,0.01,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.01,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.01,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,0,1.5305,5.41,1,1,1.6026,0.95,4,1,0.25,WEAK GOLDEN INDICATION
+ford-logo-png_seeklogo-56575.png,non_golden,0.01,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,0,1.5676,3.12,4,1,0.25,WEAK GOLDEN INDICATION
+honda-logo-png_seeklogo-249068.png,non_golden,0.01,1,0,1.2308,23.93,1,0,1.5902,1.72,,1,0,2.0832,28.75,0,0,0,100,3,0,0.0,NOT GOLDEN
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.01,1,0,1.0,38.2,1,0,1.019,37.02,,1,0,1.7202,6.31,0,0,0,100,3,0,0.0,NOT GOLDEN
+nike-logo-png_seeklogo-99482.png,non_golden,0.01,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.01,1,0,1.0,38.2,1,0,1.4794,8.57,,1,0,1.0,38.2,1,0,1.0556,34.76,4,0,0.0,NOT GOLDEN
+porsche-logo-png_seeklogo-168544.png,non_golden,0.01,1,0,1.3091,19.09,1,0,1.679,3.77,,1,0,1.6766,3.62,1,1,1.617,0.06,4,1,0.25,WEAK GOLDEN INDICATION
+snapchat-logo-png-0.webp,non_golden,0.01,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,0,1.6567,2.39,3,0,0.0,NOT GOLDEN
+telegram-logo-png-0.png,non_golden,0.01,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.01,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.01,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.01,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.01,1,0,1.0097,37.59,1,0,1.4622,9.63,,1,0,1.402,13.35,1,0,1.1,32.01,4,0,0.0,NOT GOLDEN
+youtube-logo-hd-8.png,non_golden,0.01,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
+centroid_phi23.png,ai,0.02,1,0,1.394,13.84,1,1,1.6463,1.75,phi,1,1,1.6174,0.03,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image22.png,ai,0.02,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.02,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.02,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.02,1,1,1.6101,0.49,1,1,1.6406,1.4,phi,1,1,1.62,0.12,0,0,0,100,3,3,1.0,GOLDEN
+Code_Generated_Image34.png,ai,0.02,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.02,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,1,1.6393,1.32,4,4,1.0,GOLDEN
+Code_Generated_Image_33.png,ai,0.02,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.02,1,0,1.6923,4.59,1,0,2.7119,67.61,,0,0,0,100,1,1,1.6125,0.34,3,1,0.333,WEAK GOLDEN INDICATION
+Screenshot 2026-05-05 032133_00.png,ai,0.02,1,0,1.0735,33.65,1,0,1.779,9.95,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.02,1,0,3.649,125.52,1,0,1.5224,5.91,,1,0,1.8793,16.15,1,0,0,100,4,0,0.0,NOT GOLDEN
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.02,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.02,1,0,3.0368,87.69,1,0,1.5376,4.97,,1,1,1.6314,0.83,1,1,1.6136,0.27,4,2,0.5,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.02,1,0,1.4652,9.44,1,1,1.5861,1.97,phi,1,0,1.5477,4.35,1,1,1.6201,0.13,4,2,0.5,PARTIALLY GOLDEN
+adidas-logo-png-black-0.png,golden,0.02,1,0,1.4835,8.31,1,1,1.6367,1.16,phi,1,0,1.8978,17.29,1,0,2.0,23.61,4,1,0.25,WEAK GOLDEN INDICATION
+airbnb-logo-png_seeklogo-272806.png,golden,0.02,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,0,1.5,7.29,1,0,1.6667,3.01,4,0,0.0,NOT GOLDEN
+Apple-Logo-PNG-Clipart.webp,golden,0.02,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.02,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.02,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.02,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.02,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.02,1,0,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.02,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.02,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.02,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.02,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,1,1.5902,1.72,2,1,0.5,PARTIALLY GOLDEN
+pepsi-png-logo-4.webp,golden,0.02,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,0,1.5,7.29,4,0,0.0,NOT GOLDEN
+Spotify_logo_without_text.svg.png,golden,0.02,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,0,1.5692,3.02,4,0,0.0,NOT GOLDEN
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.02,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.02,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,0,1.5761,2.59,4,0,0.0,NOT GOLDEN
+bmw-logo-png_seeklogo-170616.png,non_golden,0.02,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.02,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.02,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,0,1.5305,5.41,1,1,1.6026,0.95,4,1,0.25,WEAK GOLDEN INDICATION
+ford-logo-png_seeklogo-56575.png,non_golden,0.02,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,0,1.5676,3.12,4,1,0.25,WEAK GOLDEN INDICATION
+honda-logo-png_seeklogo-249068.png,non_golden,0.02,1,0,1.2308,23.93,1,1,1.5902,1.72,phi,1,0,2.0832,28.75,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.02,1,0,1.0,38.2,1,0,1.019,37.02,,1,0,1.7202,6.31,0,0,0,100,3,0,0.0,NOT GOLDEN
+nike-logo-png_seeklogo-99482.png,non_golden,0.02,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.02,1,0,1.0,38.2,1,0,1.4794,8.57,,1,0,1.0,38.2,1,0,1.0556,34.76,4,0,0.0,NOT GOLDEN
+porsche-logo-png_seeklogo-168544.png,non_golden,0.02,1,0,1.3091,19.09,1,0,1.679,3.77,,1,0,1.6766,3.62,1,1,1.617,0.06,4,1,0.25,WEAK GOLDEN INDICATION
+snapchat-logo-png-0.webp,non_golden,0.02,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,0,1.6567,2.39,3,0,0.0,NOT GOLDEN
+telegram-logo-png-0.png,non_golden,0.02,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.02,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.02,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.02,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.02,1,0,1.0097,37.59,1,0,1.4622,9.63,,1,0,1.402,13.35,1,0,1.1,32.01,4,0,0.0,NOT GOLDEN
+youtube-logo-hd-8.png,non_golden,0.02,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
+centroid_phi23.png,ai,0.03,1,0,1.394,13.84,1,1,1.6463,1.75,phi,1,1,1.6174,0.03,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image22.png,ai,0.03,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.03,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.03,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.03,1,1,1.6101,0.49,1,1,1.6406,1.4,phi,1,1,1.62,0.12,0,0,0,100,3,3,1.0,GOLDEN
+Code_Generated_Image34.png,ai,0.03,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.03,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,1,1.6393,1.32,4,4,1.0,GOLDEN
+Code_Generated_Image_33.png,ai,0.03,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.03,1,0,1.6923,4.59,1,0,2.7119,67.61,,0,0,0,100,1,1,1.6125,0.34,3,1,0.333,WEAK GOLDEN INDICATION
+Screenshot 2026-05-05 032133_00.png,ai,0.03,1,0,1.0735,33.65,1,0,1.779,9.95,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.03,1,0,3.649,125.52,1,0,1.5224,5.91,,1,0,1.8793,16.15,1,0,0,100,4,0,0.0,NOT GOLDEN
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.03,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.03,1,0,3.0368,87.69,1,0,1.5376,4.97,,1,1,1.6314,0.83,1,1,1.6136,0.27,4,2,0.5,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.03,1,0,1.4652,9.44,1,1,1.5861,1.97,phi,1,0,1.5477,4.35,1,1,1.6201,0.13,4,2,0.5,PARTIALLY GOLDEN
+adidas-logo-png-black-0.png,golden,0.03,1,0,1.4835,8.31,1,1,1.6367,1.16,phi,1,0,1.8978,17.29,1,0,2.0,23.61,4,1,0.25,WEAK GOLDEN INDICATION
+airbnb-logo-png_seeklogo-272806.png,golden,0.03,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,0,1.5,7.29,1,0,1.6667,3.01,4,0,0.0,NOT GOLDEN
+Apple-Logo-PNG-Clipart.webp,golden,0.03,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.03,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.03,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.03,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.03,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.03,1,1,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,1,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.03,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.03,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.03,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.03,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,1,1.5902,1.72,2,1,0.5,PARTIALLY GOLDEN
+pepsi-png-logo-4.webp,golden,0.03,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,0,1.5,7.29,4,0,0.0,NOT GOLDEN
+Spotify_logo_without_text.svg.png,golden,0.03,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,0,1.5692,3.02,4,0,0.0,NOT GOLDEN
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.03,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.03,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,1,1.5761,2.59,4,1,0.25,WEAK GOLDEN INDICATION
+bmw-logo-png_seeklogo-170616.png,non_golden,0.03,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.03,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.03,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,0,1.5305,5.41,1,1,1.6026,0.95,4,1,0.25,WEAK GOLDEN INDICATION
+ford-logo-png_seeklogo-56575.png,non_golden,0.03,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,0,1.5676,3.12,4,1,0.25,WEAK GOLDEN INDICATION
+honda-logo-png_seeklogo-249068.png,non_golden,0.03,1,0,1.2308,23.93,1,1,1.5902,1.72,phi,1,0,2.0832,28.75,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.03,1,0,1.0,38.2,1,0,1.019,37.02,,1,0,1.7202,6.31,0,0,0,100,3,0,0.0,NOT GOLDEN
+nike-logo-png_seeklogo-99482.png,non_golden,0.03,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.03,1,0,1.0,38.2,1,0,1.4794,8.57,,1,0,1.0,38.2,1,0,1.0556,34.76,4,0,0.0,NOT GOLDEN
+porsche-logo-png_seeklogo-168544.png,non_golden,0.03,1,0,1.3091,19.09,1,0,1.679,3.77,,1,0,1.6766,3.62,1,1,1.617,0.06,4,1,0.25,WEAK GOLDEN INDICATION
+snapchat-logo-png-0.webp,non_golden,0.03,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,1,1.6567,2.39,3,1,0.333,WEAK GOLDEN INDICATION
+telegram-logo-png-0.png,non_golden,0.03,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.03,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.03,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.03,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.03,1,0,1.0097,37.59,1,0,1.4622,9.63,,1,0,1.402,13.35,1,0,1.1,32.01,4,0,0.0,NOT GOLDEN
+youtube-logo-hd-8.png,non_golden,0.03,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
+centroid_phi23.png,ai,0.05,1,0,1.394,13.84,1,1,1.6463,1.75,phi,1,1,1.6174,0.03,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image22.png,ai,0.05,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.05,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.05,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.05,1,1,1.6101,0.49,1,1,1.6406,1.4,phi,1,1,1.62,0.12,0,0,0,100,3,3,1.0,GOLDEN
+Code_Generated_Image34.png,ai,0.05,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.05,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,1,1.6393,1.32,4,4,1.0,GOLDEN
+Code_Generated_Image_33.png,ai,0.05,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.05,1,1,1.6923,4.59,1,1,2.7119,3.59,phi^2,0,0,0,100,1,1,1.6125,0.34,3,3,1.0,GOLDEN
+Screenshot 2026-05-05 032133_00.png,ai,0.05,1,0,1.0735,33.65,1,0,1.779,9.95,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.05,1,0,3.649,125.52,1,0,1.5224,5.91,,1,0,1.8793,16.15,1,0,0,100,4,0,0.0,NOT GOLDEN
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.05,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.05,1,0,3.0368,87.69,1,1,1.5376,4.97,phi,1,1,1.6314,0.83,1,1,1.6136,0.27,4,3,0.75,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.05,1,0,1.4652,9.44,1,1,1.5861,1.97,phi,1,1,1.5477,4.35,1,1,1.6201,0.13,4,3,0.75,PARTIALLY GOLDEN
+adidas-logo-png-black-0.png,golden,0.05,1,0,1.4835,8.31,1,1,1.6367,1.16,phi,1,0,1.8978,17.29,1,0,2.0,23.61,4,1,0.25,WEAK GOLDEN INDICATION
+airbnb-logo-png_seeklogo-272806.png,golden,0.05,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,0,1.5,7.29,1,1,1.6667,3.01,4,1,0.25,WEAK GOLDEN INDICATION
+Apple-Logo-PNG-Clipart.webp,golden,0.05,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.05,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.05,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.05,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.05,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.05,1,1,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,1,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.05,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.05,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.05,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.05,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,1,1.5902,1.72,2,1,0.5,PARTIALLY GOLDEN
+pepsi-png-logo-4.webp,golden,0.05,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,0,1.5,7.29,4,0,0.0,NOT GOLDEN
+Spotify_logo_without_text.svg.png,golden,0.05,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,1,1.5692,3.02,4,1,0.25,WEAK GOLDEN INDICATION
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.05,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.05,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,1,1.5761,2.59,4,1,0.25,WEAK GOLDEN INDICATION
+bmw-logo-png_seeklogo-170616.png,non_golden,0.05,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.05,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.05,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,0,1.5305,5.41,1,1,1.6026,0.95,4,1,0.25,WEAK GOLDEN INDICATION
+ford-logo-png_seeklogo-56575.png,non_golden,0.05,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,1,1.5676,3.12,4,2,0.5,PARTIALLY GOLDEN
+honda-logo-png_seeklogo-249068.png,non_golden,0.05,1,0,1.2308,23.93,1,1,1.5902,1.72,phi,1,0,2.0832,28.75,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.05,1,0,1.0,38.2,1,0,1.019,37.02,,1,0,1.7202,6.31,0,0,0,100,3,0,0.0,NOT GOLDEN
+nike-logo-png_seeklogo-99482.png,non_golden,0.05,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.05,1,0,1.0,38.2,1,1,2.7013,3.18,phi^2,1,0,1.0,38.2,1,0,1.0556,34.76,4,1,0.25,WEAK GOLDEN INDICATION
+porsche-logo-png_seeklogo-168544.png,non_golden,0.05,1,0,1.3091,19.09,1,1,1.679,3.77,phi,1,1,1.6766,3.62,1,1,1.617,0.06,4,3,0.75,PARTIALLY GOLDEN
+snapchat-logo-png-0.webp,non_golden,0.05,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,1,1.6567,2.39,3,1,0.333,WEAK GOLDEN INDICATION
+telegram-logo-png-0.png,non_golden,0.05,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.05,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.05,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.05,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.05,1,0,1.0097,37.59,1,0,1.4622,9.63,,1,0,1.402,13.35,1,0,1.1,32.01,4,0,0.0,NOT GOLDEN
+youtube-logo-hd-8.png,non_golden,0.05,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
+centroid_phi23.png,ai,0.07,1,0,1.394,13.84,1,1,1.6463,1.75,phi,1,1,1.6174,0.03,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image22.png,ai,0.07,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.07,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.07,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.07,1,1,1.6101,0.49,1,1,1.6406,1.4,phi,1,1,1.62,0.12,0,0,0,100,3,3,1.0,GOLDEN
+Code_Generated_Image34.png,ai,0.07,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.07,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,1,1.6393,1.32,4,4,1.0,GOLDEN
+Code_Generated_Image_33.png,ai,0.07,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.07,1,1,1.6923,4.59,1,1,2.7119,3.59,phi^2,0,0,0,100,1,1,1.6125,0.34,3,3,1.0,GOLDEN
+Screenshot 2026-05-05 032133_00.png,ai,0.07,1,0,1.0735,33.65,1,0,1.779,9.95,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.07,1,0,3.649,125.52,1,1,1.5224,5.91,phi,1,0,1.8793,16.15,1,0,0,100,4,1,0.25,WEAK GOLDEN INDICATION
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.07,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.07,1,0,3.0368,87.69,1,1,1.5376,4.97,phi,1,1,1.6314,0.83,1,1,1.6136,0.27,4,3,0.75,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.07,1,0,1.4652,9.44,1,1,1.5861,1.97,phi,1,1,1.5477,4.35,1,1,1.6201,0.13,4,3,0.75,PARTIALLY GOLDEN
+adidas-logo-png-black-0.png,golden,0.07,1,0,1.4835,8.31,1,1,1.6367,1.16,phi,1,0,1.8978,17.29,1,0,2.0,23.61,4,1,0.25,WEAK GOLDEN INDICATION
+airbnb-logo-png_seeklogo-272806.png,golden,0.07,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,0,1.5,7.29,1,1,1.6667,3.01,4,1,0.25,WEAK GOLDEN INDICATION
+Apple-Logo-PNG-Clipart.webp,golden,0.07,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.07,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.07,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.07,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.07,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.07,1,1,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,1,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.07,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.07,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.07,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.07,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,1,1.5902,1.72,2,1,0.5,PARTIALLY GOLDEN
+pepsi-png-logo-4.webp,golden,0.07,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,0,1.5,7.29,4,0,0.0,NOT GOLDEN
+Spotify_logo_without_text.svg.png,golden,0.07,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,1,1.5692,3.02,4,1,0.25,WEAK GOLDEN INDICATION
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.07,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.07,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,1,1.5761,2.59,4,1,0.25,WEAK GOLDEN INDICATION
+bmw-logo-png_seeklogo-170616.png,non_golden,0.07,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.07,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.07,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,1,1.5305,5.41,1,1,1.6026,0.95,4,2,0.5,PARTIALLY GOLDEN
+ford-logo-png_seeklogo-56575.png,non_golden,0.07,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,1,1.5676,3.12,4,2,0.5,PARTIALLY GOLDEN
+honda-logo-png_seeklogo-249068.png,non_golden,0.07,1,0,1.2308,23.93,1,1,1.5902,1.72,phi,1,0,2.0832,28.75,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.07,1,0,1.0,38.2,1,0,1.019,37.02,,1,1,1.7202,6.31,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+nike-logo-png_seeklogo-99482.png,non_golden,0.07,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.07,1,0,1.0,38.2,1,1,2.7013,3.18,phi^2,1,0,1.0,38.2,1,0,1.0556,34.76,4,1,0.25,WEAK GOLDEN INDICATION
+porsche-logo-png_seeklogo-168544.png,non_golden,0.07,1,0,1.3091,19.09,1,1,1.679,3.77,phi,1,1,1.6766,3.62,1,1,1.617,0.06,4,3,0.75,PARTIALLY GOLDEN
+snapchat-logo-png-0.webp,non_golden,0.07,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,1,1.6567,2.39,3,1,0.333,WEAK GOLDEN INDICATION
+telegram-logo-png-0.png,non_golden,0.07,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.07,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.07,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.07,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.07,1,0,1.0097,37.59,1,0,1.4622,9.63,,1,0,1.402,13.35,1,0,1.1,32.01,4,0,0.0,NOT GOLDEN
+youtube-logo-hd-8.png,non_golden,0.07,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
+centroid_phi23.png,ai,0.1,1,0,1.394,13.84,1,1,1.6463,1.75,phi,1,1,1.6174,0.03,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image22.png,ai,0.1,1,1,1.6047,0.83,1,1,1.6022,0.98,phi,0,0,0,100,0,0,0,100,2,2,1.0,GOLDEN
+Code_Generated_Image23.png,ai,0.1,1,1,1.6103,0.47,1,0,1.3959,13.73,,1,1,1.62,0.12,0,0,0,100,3,2,0.667,PARTIALLY GOLDEN
+Code_Generated_Image24.png,ai,0.1,1,1,1.6101,0.49,1,0,1.4251,11.92,,1,1,1.62,0.12,1,0,1.1,32.01,4,2,0.5,PARTIALLY GOLDEN
+Code_Generated_Image33.png,ai,0.1,1,1,1.6101,0.49,1,1,1.6406,1.4,phi,1,1,1.62,0.12,0,0,0,100,3,3,1.0,GOLDEN
+Code_Generated_Image34.png,ai,0.1,1,1,1.6171,0.05,1,1,1.608,0.62,phi,1,1,1.62,0.12,1,0,1.1,32.01,4,3,0.75,PARTIALLY GOLDEN
+Code_Generated_Image44.png,ai,0.1,1,1,1.6181,0.01,1,1,2.6179,0.0,phi^2,1,1,1.6176,0.03,1,1,1.6393,1.32,4,4,1.0,GOLDEN
+Code_Generated_Image_33.png,ai,0.1,1,1,1.6169,0.07,1,1,2.6438,0.99,phi^2,1,1,1.61,0.49,0,0,0,100,3,3,1.0,GOLDEN
+Screenshot 2026-05-04 224457_33.png,ai,0.1,1,1,1.6923,4.59,1,1,2.7119,3.59,phi^2,0,0,0,100,1,1,1.6125,0.34,3,3,1.0,GOLDEN
+Screenshot 2026-05-05 032133_00.png,ai,0.1,1,0,1.0735,33.65,1,1,1.779,9.95,phi,0,0,0,100,0,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+200424060716-nasa-worm-logo.jpg,golden,0.1,1,0,3.649,125.52,1,1,1.5224,5.91,phi,1,0,1.8793,16.15,1,0,0,100,4,1,0.25,WEAK GOLDEN INDICATION
+476f8f6c556ee1ef94969bfa0ef454f2.png,golden,0.1,1,0,1.3836,14.49,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+4e7b661f6edaa3c034c68d38d0472862.png,golden,0.1,1,0,3.0368,87.69,1,1,1.5376,4.97,phi,1,1,1.6314,0.83,1,1,1.6136,0.27,4,3,0.75,PARTIALLY GOLDEN
+7d5c134448a5dbe4e1fd7a2eb73945de.png,golden,0.1,1,1,1.4652,9.44,1,1,1.5861,1.97,phi,1,1,1.5477,4.35,1,1,1.6201,0.13,4,4,1.0,GOLDEN
+adidas-logo-png-black-0.png,golden,0.1,1,1,1.4835,8.31,1,1,1.6367,1.16,phi,1,0,1.8978,17.29,1,0,2.0,23.61,4,2,0.5,PARTIALLY GOLDEN
+airbnb-logo-png_seeklogo-272806.png,golden,0.1,1,0,1.0746,33.58,1,0,1.8842,16.45,,1,1,1.5,7.29,1,1,1.6667,3.01,4,2,0.5,PARTIALLY GOLDEN
+Apple-Logo-PNG-Clipart.webp,golden,0.1,1,0,1.1891,26.51,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+bb819673e55d78e3cc742bdb6114eec8.png,golden,0.1,1,0,1.0218,36.85,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+BP_Helios_logo.svg.png,golden,0.1,1,0,1.0143,37.31,1,0,0,100,,0,0,0,100,1,1,1.6184,0.02,3,1,0.333,WEAK GOLDEN INDICATION
+e47d3a0760d9fb84fd124a172d8d2404.png,golden,0.1,1,0,1.0,38.2,1,0,1.3443,16.92,,1,0,1.0,38.2,1,1,1.6207,0.17,4,1,0.25,WEAK GOLDEN INDICATION
+image.webp,golden,0.1,1,0,1.2262,24.21,0,0,0,100,,0,0,0,100,1,0,0,100,2,0,0.0,NOT GOLDEN
+imgbin-national-geographic-television-show-television-channel-nat-geo-wild-others-qcStiQ1wEDLX5WRKw7zDjF1g1_t.png,golden,0.1,1,1,1.5849,2.05,0,0,0,100,,0,0,0,100,0,0,0,100,1,1,0.0,INSUFFICIENT DATA
+Mastercard-Logo-PNG-Picture.png,golden,0.1,1,1,1.6165,0.09,0,0,0,100,,0,0,0,100,1,0,0,100,2,1,0.5,PARTIALLY GOLDEN
+mcdonalds-golden-arches-logo-png_seeklogo-299129.png,golden,0.1,1,0,1.1435,29.33,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nike-logo-png_seeklogo-99482.png,golden,0.1,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+nissan-logo-png_seeklogo-99770.png,golden,0.1,1,0,1.195,26.14,0,0,0,100,,0,0,0,100,1,1,1.5902,1.72,2,1,0.5,PARTIALLY GOLDEN
+pepsi-png-logo-4.webp,golden,0.1,1,0,1.0,38.2,1,0,1.8823,16.33,,1,0,1.0,38.2,1,1,1.5,7.29,4,1,0.25,WEAK GOLDEN INDICATION
+Spotify_logo_without_text.svg.png,golden,0.1,1,0,1.0,38.2,1,0,1.4442,10.74,,1,0,1.0085,37.67,1,1,1.5692,3.02,4,1,0.25,WEAK GOLDEN INDICATION
+black-chatgpt-logo-circle-symbol-black-png-0.png,non_golden,0.1,1,0,1.0145,37.3,1,0,1.0015,38.1,,1,0,2.0,23.61,1,1,1.6308,0.79,4,1,0.25,WEAK GOLDEN INDICATION
+black-logo-threads-png-0.png,non_golden,0.1,1,0,1.0,38.2,1,0,0,100,,1,0,1.0969,32.21,1,1,1.5761,2.59,4,1,0.25,WEAK GOLDEN INDICATION
+bmw-logo-png_seeklogo-170616.png,non_golden,0.1,1,0,1.0,38.2,1,0,1.2115,25.13,,1,0,2.0,23.61,0,0,0,100,3,0,0.0,NOT GOLDEN
+facebook-messenger-logo-png_seeklogo-271544.png,non_golden,0.1,1,0,1.0141,37.32,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+fc-barcelona-logo-png_seeklogo-52469.png,non_golden,0.1,1,0,1.0105,37.54,1,0,1.1298,30.17,,1,1,1.5305,5.41,1,1,1.6026,0.95,4,2,0.5,PARTIALLY GOLDEN
+ford-logo-png_seeklogo-56575.png,non_golden,0.1,1,0,2.6422,63.3,1,1,1.6144,0.22,phi,1,0,1.8998,17.42,1,1,1.5676,3.12,4,2,0.5,PARTIALLY GOLDEN
+honda-logo-png_seeklogo-249068.png,non_golden,0.1,1,0,1.2308,23.93,1,1,1.5902,1.72,phi,1,0,2.0832,28.75,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+mercedes-benz-logo-png_seeklogo-91084.png,non_golden,0.1,1,0,1.0,38.2,1,0,1.019,37.02,,1,1,1.7202,6.31,0,0,0,100,3,1,0.333,WEAK GOLDEN INDICATION
+nike-logo-png_seeklogo-99482.png,non_golden,0.1,1,0,2.7692,71.15,0,0,0,100,,0,0,0,100,0,0,0,100,1,0,0.0,INSUFFICIENT DATA
+pngtree-instagram-icon-instagram-logo-png-image_3584852.webp,non_golden,0.1,1,0,1.0,38.2,1,1,2.7013,3.18,phi^2,1,0,1.0,38.2,1,0,1.0556,34.76,4,1,0.25,WEAK GOLDEN INDICATION
+porsche-logo-png_seeklogo-168544.png,non_golden,0.1,1,0,1.3091,19.09,1,1,1.679,3.77,phi,1,1,1.6766,3.62,1,1,1.617,0.06,4,3,0.75,PARTIALLY GOLDEN
+snapchat-logo-png-0.webp,non_golden,0.1,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,1,1,1.6567,2.39,3,1,0.333,WEAK GOLDEN INDICATION
+telegram-logo-png-0.png,non_golden,0.1,1,0,1.0,38.2,1,0,0,100,,0,0,0,100,0,0,0,100,2,0,0.0,NOT GOLDEN
+twitter-x-logo-png-9.png,non_golden,0.1,1,0,1.0,38.2,1,0,3.0623,89.27,,1,0,1.3333,17.59,0,0,0,100,3,0,0.0,NOT GOLDEN
+volkswagen-logo-png_seeklogo-150527.png,non_golden,0.1,1,0,1.0,38.2,1,0,1.2001,25.83,,1,0,1.0,38.2,0,0,0,100,3,0,0.0,NOT GOLDEN
+wechat-logo-png_seeklogo-284905.png,non_golden,0.1,1,0,1.0,38.2,1,0,1.1141,31.14,,1,0,1.965,21.45,1,0,1.7949,10.93,4,0,0.0,NOT GOLDEN
+whatsapp-logo-light-green-png-0.webp,non_golden,0.1,1,0,1.0097,37.59,1,1,1.4622,9.63,phi,1,0,1.402,13.35,1,0,1.1,32.01,4,1,0.25,WEAK GOLDEN INDICATION
+youtube-logo-hd-8.png,non_golden,0.1,1,0,1.4324,11.47,1,0,0,100,,0,0,0,100,1,0,0,100,3,0,0.0,NOT GOLDEN
