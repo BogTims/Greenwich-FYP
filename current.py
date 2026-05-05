@@ -25,7 +25,7 @@ PHI_SQ = PHI * PHI    # 2.618
 PHI_CB = PHI * PHI * PHI    # 4.236
 
 # settings
-MIN_AREA_RATIO = 0.005    # ignore shapes smaller than 0.5% of image
+MIN_AREA_RATIO = 0.002    # ignore shapes smaller than 0.5% of image
 MAX_SIZE = 1000           # resize big images to this
 
 
@@ -53,7 +53,7 @@ def deviation(value, target=PHI):
 
 def check_extended(ratio, tol):
     # check phi, phi^2, phi^3 (area comparisons)
-    for target, name in [(PHI, "phi"), (PHI_SQ, "phi^2"), (PHI_CB, "phi^3")]:
+    for target, name in [(PHI, "phi"), (PHI_SQ, "phi^2")]:
         if is_near(ratio, target, tol):
             return True, name
     return False, None
@@ -141,24 +141,24 @@ def check_boxes(contours, tol):
 
     boxes = []
 
-    # global box around all shapes
+    # global box around all shapes - this is the one that decides the heuristic
     pts = np.vstack(contours)
     x, y, w, h = cv2.boundingRect(pts)
-    r = safe_ratio(w, h)
-    boxes.append(("Global", (x, y, w, h), r, is_near(r, PHI, tol)))
+    global_r = safe_ratio(w, h)
+    global_hit = is_near(global_r, PHI, tol)
+    # 5th item "primary" tells the visualizer if this is the deciding box
+    boxes.append(("Global", (x, y, w, h), global_r, global_hit, True))
 
-    # boxes for top 3 contours
+    # boxes for top 3 contours - shown for context only, not used for verdict
     for i, c in enumerate(contours[:3]):
         bx, by, bw, bh = cv2.boundingRect(c)
         r = safe_ratio(bw, bh)
-        boxes.append((f"C{i+1}", (bx, by, bw, bh), r, is_near(r, PHI, tol)))
+        boxes.append((f"C{i+1}", (bx, by, bw, bh), r,
+                      is_near(r, PHI, tol), False))
 
-    triggered = any(b[3] for b in boxes)
-    hits = [b[2] for b in boxes if b[3]]
-    if hits:
-        report = min(hits, key=lambda r: deviation(r))
-    else:
-        report = min((b[2] for b in boxes), key=lambda r: deviation(r))
+    # only the global box decides the verdict, the other 3 are just for context
+    triggered = global_hit
+    report = global_r
 
     return {
         "eligible": True,
@@ -276,6 +276,8 @@ def check_circles(blur, tol):
     best_r, best_d = 0, 100
     for (_, _, r1), (_, _, r2) in combinations(circles, 2):
         r = safe_ratio(r1, r2)
+        if r <1.05:
+            continue  # skip pairs of almost equal circles, likely not intentional
         d = deviation(r)
         if d < best_d:
             best_d, best_r = d, r
@@ -338,11 +340,21 @@ def visualize(img, contours, a, b, c, d, score_info, name, save_path):
 
     # boxes
     img_b = rgb.copy()
-    for n, (x, y, bw, bh), ratio, hit in a.get("boxes", []):
-        col = (0, 200, 0) if hit else (220, 120, 0)
-        cv2.rectangle(img_b, (x, y), (x + bw, y + bh), col, thick)
+    # boxes - global box drawn bold, context boxes drawn thin and faded
+    img_b = rgb.copy()
+    for n, (x, y, bw, bh), ratio, hit, primary in a.get("boxes", []):
+        if primary:
+            # the deciding box - thick, full color
+            col = (0, 200, 0) if hit else (220, 120, 0)
+            cv2.rectangle(img_b, (x, y), (x + bw, y + bh), col, thick)
+        else:
+            # context box - thinner and a bit transparent looking (gray)
+            cv2.rectangle(img_b, (x, y), (x + bw, y + bh), (160, 160, 160), 1)
     axes[0, 1].imshow(img_b)
-    for n, (x, y, bw, bh), ratio, hit in a.get("boxes", []):
+    # only label the global box - the others are just there for visual context
+    for n, (x, y, bw, bh), ratio, hit, primary in a.get("boxes", []):
+        if not primary:
+            continue   # skip the context boxes, dont label them
         col_m = "#00C800" if hit else "#DC7800"
         if y > 18:
             ty, va = y - 4, "bottom"
@@ -459,7 +471,10 @@ def main():
 
     # save visualization
     if not args.no_vis:
-        out = f"{name}_analysis.png"
+        counter = 1
+        while os.path.exists(f"{name}_analysis_{counter}.png"):
+            counter += 1
+        out = f"{name}_analysis_{counter}.png"
         visualize(img, contours, a, b, c, d, s, name, out)
         print(f"\nSaved: {out}")
 
